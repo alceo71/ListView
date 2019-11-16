@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="sistema_solare">
+        <item>Mercurio</item>
+        <item>Venere</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Asteroidi</item>
+        <item>Giove</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Nettuno</item>
+        <item>Plutone</item>
+        <item>Caronte</item>
+    </string-array>
+</resources>
